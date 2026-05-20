@@ -7,9 +7,9 @@ O sistema utiliza autenticação por senha numérica via botões físicos, forne
 ---
 
 ## 👥 Integrantes do Grupo
-* **Wellington de Menezes Paim**
-* **Joao Pedro Martins**
-* **Yuri Lucas Oishi**
+* **Wellington de Menezes Paim - RA:22.225.024-3**
+* **Joao Pedro Martins  - RA: 22.124.034-3**
+* **Yuri Lucas Oishi - RA: 22.225.025-0**
 
 ---
 
